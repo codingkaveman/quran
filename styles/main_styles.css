@@ -1238,13 +1238,13 @@ section
 .footer
 {
 	width: 100%;
-	background: #161619;
+	background: #00cc33;
 	padding-top: 88px;
 }
 .footer .logo a span
 {
 	font-size: 49px;
-	color: #FFFFFF;
+	color: black;
 }
 .footer .logo a img
 {

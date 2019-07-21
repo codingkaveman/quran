@@ -16,3 +16,7 @@
     -webkit-text-stroke-width: 1.2px;
     -webkit-text-stroke-color: black;
 }
+
+footer {
+    color: lightgreen;
+}
